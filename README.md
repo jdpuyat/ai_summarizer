@@ -1,5 +1,8 @@
 ## AI Summerizer app
 
+## Available to view here:
+## https://silver-licorice-f84db5.netlify.app/
+
 # Similar to the personal portfolio site I built by following JS Mastery's video guide
 # I followed his new video on how to build and deploy your own GPT AI website
 # https://www.youtube.com/watch?v=vpvtZZi5ZWk
